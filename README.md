@@ -7,3 +7,5 @@ clone the repo and
 **npm start**  
 
 Note: you are supposed to pass mongoDB URI and JWT_Secret into the **server.js** file
+
+###### Deployment: https://wowsometask.herokuapp.com/
